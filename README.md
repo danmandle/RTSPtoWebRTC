@@ -12,18 +12,18 @@ Deepch - https://github.com/deepch streaming developer
 
 Dmitry - https://github.com/vdalex25 web developer
 
-Now test work on (chrome, safari, firefox) no MAC OS
+Now test work on (chrome, safari, firefox)
 
 ![RTSPtoWebRTC image](doc/demo4.png)
 
 ## Installation
 1.
 ```bash
-go get github.com/deepch/RTSPtoWebRTC
+git clone http://github.com/deepch/RTSPtoWebRTC
 ```
 2.
 ```bash
-cd src/github.com/deepch/RTSPtoWebRTC
+cd RTSPtoWebRTC
 ```
 3.
 ```bash
